@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raquel !</h1>
 <h3 align="center">I recently finished a Data Analytics bootcamp, I am looking for opportunities in projects related to data science or data analytics.</h3>
 
-- 🌱 I’m currently learning **Html, Css,JavaScript**
+- 🌱 I’m currently learning **Kotlin**
 - 😄 Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
